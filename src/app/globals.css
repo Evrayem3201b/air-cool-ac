@@ -37,7 +37,6 @@ html {
   align-items: center; /* Vertically centers the text */
   position: relative; /* Establish a positioning context for absolute children */
   height: max-content; /* Full viewport height */
-  width: 100vw;
 }
 .hero-text{
   position: absolute; /* Places text over the image */
