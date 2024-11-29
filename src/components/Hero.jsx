@@ -1,6 +1,6 @@
 export default function Hero() {
     return (
-      <section className="heroimg bg-no-repeat bg-cover text-[#4178ce]">
+      <section className="heroimg bg-no-repeat overflow-hidden bg-cover text-[#4178ce]">
         <img src="/images/wideimg.webp" className="w-full h-full"/>
           <h2 className="hero-text text-3xl sm:text-4xl lg:text-5xl font-bold">
           خدمة صيانة عالية الجودة لكأفة أنواع التكييفات
